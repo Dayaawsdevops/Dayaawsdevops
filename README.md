@@ -113,13 +113,18 @@
 ## 🔥 Featured Projects
 
 <div align="center">
-  
-[![Carolinas Cloud Infra](https://github-readme-stats.vercel.app/api/pin/?username=Dayaawsdevops&repo=carolinas-cloud-infra&theme=tokyonight&show_description=true)](https://github.com/Dayaawsdevops/carolinas-cloud-infra)
-[![iGuroo DevOps](https://github-readme-stats.vercel.app/api/pin/?username=Dayaawsdevops&repo=iguroo-devops&theme=tokyonight&show_description=true)](https://github.com/Dayaawsdevops/iguroo-devops)
 
-[![E-commerce DevOps](https://github-readme-stats.vercel.app/api/pin/?username=Dayaawsdevops&repo=ecommerce-devops&theme=tokyonight&show_description=true)](https://github.com/Dayaawsdevops/ecommerce-devops)
-[![DevOps Scripts](https://github-readme-stats.vercel.app/api/pin/?username=Dayaawsdevops&repo=devops-automation-scripts&theme=tokyonight&show_description=true)](https://github.com/Dayaawsdevops/devops-automation-scripts)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏥 **Carolinas Cloud Infra** | Healthcare cloud infrastructure for Carolinas HealthCare System | AWS, Kubernetes, Terraform, Jenkins |
+| 📚 **iGuroo EdTech Platform** | CI/CD pipelines for personalized learning platform | AWS CodePipeline, ECS, Docker, CloudFormation |
+| 🛒 **E-commerce DevOps** | Automated infrastructure for high-traffic e-commerce | Jenkins, Maven, Ansible, AWS |
+| 🔧 **DevOps Automation Scripts** | Collection of automation utilities and monitoring tools | Bash, Python, YAML, Terraform |
 
+</div>
+
+<div align="center">
+  <i>🚀 Project repositories coming soon! Building documentation and cleaning up code...</i>
 </div>
 
 ---
