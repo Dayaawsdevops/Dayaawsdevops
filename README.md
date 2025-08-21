@@ -93,19 +93,19 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayanandabs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanandabs&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dayaawsdevops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayaawsdevops&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayanandabs&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dayaawsdevops&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dayanandabs&theme=tokyonight&row=1&column=6&margin-h=8&margin-w=8&no-bg=false&no-frame=false&title=MultiLanguage,Commits,PullRequest,Reviews,Issues,Repositories" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dayaawsdevops&theme=tokyonight&row=1&column=6&margin-h=8&margin-w=8&no-bg=false&no-frame=false&title=MultiLanguage,Commits,PullRequest,Reviews,Issues,Repositories" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -114,11 +114,11 @@
 
 <div align="center">
   
-[![Carolinas Cloud Infra](https://github-readme-stats.vercel.app/api/pin/?username=dayanandabs&repo=carolinas-cloud-infra&theme=tokyonight&show_description=true)](https://github.com/dayanandabs/carolinas-cloud-infra)
-[![iGuroo DevOps](https://github-readme-stats.vercel.app/api/pin/?username=dayanandabs&repo=iguroo-devops&theme=tokyonight&show_description=true)](https://github.com/dayanandabs/iguroo-devops)
+[![Carolinas Cloud Infra](https://github-readme-stats.vercel.app/api/pin/?username=Dayaawsdevops&repo=carolinas-cloud-infra&theme=tokyonight&show_description=true)](https://github.com/Dayaawsdevops/carolinas-cloud-infra)
+[![iGuroo DevOps](https://github-readme-stats.vercel.app/api/pin/?username=Dayaawsdevops&repo=iguroo-devops&theme=tokyonight&show_description=true)](https://github.com/Dayaawsdevops/iguroo-devops)
 
-[![E-commerce DevOps](https://github-readme-stats.vercel.app/api/pin/?username=dayanandabs&repo=ecommerce-devops&theme=tokyonight&show_description=true)](https://github.com/dayanandabs/ecommerce-devops)
-[![DevOps Scripts](https://github-readme-stats.vercel.app/api/pin/?username=dayanandabs&repo=devops-automation-scripts&theme=tokyonight&show_description=true)](https://github.com/dayanandabs/devops-automation-scripts)
+[![E-commerce DevOps](https://github-readme-stats.vercel.app/api/pin/?username=Dayaawsdevops&repo=ecommerce-devops&theme=tokyonight&show_description=true)](https://github.com/Dayaawsdevops/ecommerce-devops)
+[![DevOps Scripts](https://github-readme-stats.vercel.app/api/pin/?username=Dayaawsdevops&repo=devops-automation-scripts&theme=tokyonight&show_description=true)](https://github.com/Dayaawsdevops/devops-automation-scripts)
 
 </div>
 
@@ -143,7 +143,7 @@
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dayanandabs&bg_color=1a1b27&color=628fdb&line=d1a01f&point=c58545&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dayaawsdevops&bg_color=1a1b27&color=628fdb&line=d1a01f&point=c58545&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -165,8 +165,8 @@
   
 ### 💡 *"Automating today for a better tomorrow"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=dayanandabs&color=6C63FF&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/dayanandabs?style=flat-square&color=6C63FF)](https://github.com/Dayaawsdevops)
+![Profile Views](https://komarev.com/ghpvc/?username=Dayaawsdevops&color=6C63FF&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/Dayaawsdevops?style=flat-square&color=6C63FF)](https://github.com/Dayaawsdevops)
 
 </div>
 
