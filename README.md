@@ -1,13 +1,13 @@
 # Hi there, I'm Dayananda B S 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;AWS+Cloud;Kubernetes;CI%2FCD+Automation;Infrastructure+as+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;AWS+Cloud;Kubernetes;Terraform;Docker;Ansible;Montitoring Tools;CI%2FCD+Automation;Infrastructure+as+Code" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
 - 🔭 DevOps Engineer with **4+ years** of hands-on experience
-- 🌱 Currently working on advanced Kubernetes and GitOps implementations
+- 🌱 Currently working on Kubernetes and GitHub Actions implementations
 - ☁️ AWS Cloud enthusiast specializing in scalable infrastructure
 - 🎯 Passionate about automation, monitoring, and continuous improvement
 - 📍 Based in Bangalore, Karnataka, India
