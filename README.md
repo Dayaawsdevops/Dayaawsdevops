@@ -1,7 +1,7 @@
 # Hi there, I'm Dayananda B S 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;AWS+Cloud;Kubernetes;Terraform;Docker;Ansible;Montitoring Tools;CI%2FCD+Automation;Infrastructure+as+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;AWS+Cloud;Kubernetes;Terraform;Docker;Ansible;MontitoringTools;CI%2FCD+Automation;Infrastructure+as+Code" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
